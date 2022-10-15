@@ -61,32 +61,3 @@ class MyAppLoggedIn extends StatelessWidget {
         home: HomePage(userModel: usermodel, firebaseUser: firebaseuser));
   }
 }
-
-
-
-
-
-// class MyAppLoggedIn extends StatefulWidget {
-//   final UserModel usermodel;
-//   final User firebaseuser;
-
-//   const MyAppLoggedIn(
-//       {super.key, required this.usermodel, required this.firebaseuser});
-
-//   @override
-//   _MyAppLoggedInState createState() => _MyAppLoggedInState();
-// }
-
-// class _MyAppLoggedInState extends State<MyApp> {
-//   @override
-//   Widget build(BuildContext context) {
-//     return MaterialApp(
-//         debugShowCheckedModeBanner: false,
-//         theme: ThemeData(
-//           primaryColor: Colors.blue[900],
-//         ),
-//         home: HomePage()
-//         //HomePage(),
-//         );
-//   }
-// }
