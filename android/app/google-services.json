@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1075140003526",
+    "project_id": "teachersapp-a1e15",
+    "storage_bucket": "teachersapp-a1e15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075140003526:android:477ad503b7507859d6b9c7",
+        "android_client_info": {
+          "package_name": "com.example.teachers_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075140003526-a4ugupiajl3mbj6net7rjcjmobm6gt1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAk7x7ryvSukVjKWnu9TSwCVrZLa9w0js"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075140003526-a4ugupiajl3mbj6net7rjcjmobm6gt1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
